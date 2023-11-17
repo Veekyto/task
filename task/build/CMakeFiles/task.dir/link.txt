@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/task.dir/main.c.o CMakeFiles/task.dir/parser/parser.c.o CMakeFiles/task.dir/placement/placement.c.o CMakeFiles/task.dir/exporter/exporter.c.o -o task 
